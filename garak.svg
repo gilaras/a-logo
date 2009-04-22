@@ -15,9 +15,20 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="garak.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="garak06.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective122" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +39,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49734468"
-     inkscape:cx="426.22375"
-     inkscape:cy="795.96001"
+     inkscape:zoom="0.5"
+     inkscape:cx="627.67836"
+     inkscape:cy="604.78839"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -140,7 +151,7 @@
          transform="translate(472,392)" />
     </g>
     <g
-       transform="matrix(0.3891002,-0.1042589,-0.1042589,-0.3891002,-616.57837,1163.6269)"
+       transform="matrix(0.3891002,-0.1042589,-0.1042589,-0.3891002,-622.6104,1312.4171)"
        id="g3228">
       <path
          sodipodi:type="arc"
@@ -583,24 +594,17 @@
          sodipodi:nodetypes="cscsccsccc" />
     </g>
     <g
-       transform="translate(-533.18564,-439.26893)"
+       transform="translate(-501.18564,-439.26893)"
        id="g3374"
        inkscape:export-filename="garak05.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <g
-         id="g3394">
-        <path
-           transform="translate(-341.82035,-290.09754)"
-           id="path3378"
-           d="M 1057.7812,848.9375 C 1040.0333,849.03978 1021.1322,851.5298 1002,856.65625 C 925.47136,877.16204 873.65925,932.22331 886.34375,979.5625 C 899.02824,1026.9017 971.43995,1048.6933 1047.9688,1028.1875 C 1061.364,1024.5983 1073.9885,1019.9538 1085.6562,1014.4688 L 1085.1562,1014.625 L 1084,1011.9375 C 1074.1328,1016.661 1063.1504,1020.3423 1051.25,1022.6875 C 991.24327,1034.5131 930.78423,1008.1507 916.28125,963.84375 C 901.77827,919.53675 938.712,873.9818 998.71875,862.15625 C 1037.3504,854.54312 1076.1561,862.76391 1102.7812,881.40625 L 1130.375,865.46875 C 1111.3518,854.63927 1085.9949,848.7749 1057.7812,848.9375 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.96078431;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 710.96875,736.625 C 732.46823,782.57026 701.56013,811.99837 682.90625,831.34375 C 720.64537,843.26545 804.12648,782.87157 801.85203,721.22372 L 772.41065,734.27525 C 766.99059,775.08519 746.43348,809.55734 699.34105,824.56234 C 763.21315,768.96997 746.64182,736.4092 743.34375,724.53125 L 710.96875,736.625 z"
-           id="path3380"
-           sodipodi:nodetypes="ccccccc" />
-      </g>
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.96078431;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 214.78125,119.5625 C 197.03335,119.66478 178.1322,122.1548 159,127.28125 C 82.471367,147.78704 30.65925,202.84831 43.34375,250.1875 C 56.028239,297.5267 128.4399,319.3183 204.96875,298.8125 C 206.6111,298.37244 208.22492,297.94014 209.84375,297.46875 C 231.22679,343.34114 200.35541,372.73498 181.71875,392.0625 C 219.45787,403.98419 302.9307,343.6166 300.65625,281.96875 C 295.4756,278.1346 274.67716,286.37585 271.21875,295 C 265.79869,335.80994 245.24868,370.27625 198.15625,385.28125 C 254.4891,336.25083 248.45842,305.07114 243.73898,290.32723 C 241.92457,284.65885 218.07104,291.30889 208.25,293.3125 C 148.32833,305.53722 87.78423,278.7757 73.28125,234.46875 C 58.778269,190.16175 95.712,144.6068 155.71875,132.78125 C 194.35041,125.16812 233.15615,133.38891 259.78125,152.03125 C 271.45045,159.94594 293.8739,142.57261 287.375,136.09375 C 268.35179,125.26427 242.99495,119.3999 214.78125,119.5625 z"
+         transform="translate(501.18564,439.26893)"
+         id="path3378"
+         sodipodi:nodetypes="cssscccccssssccc" />
     </g>
     <g
        transform="matrix(0.5100008,-0.1366543,-0.1366543,-0.5100008,976.75096,1408.4681)"
@@ -660,26 +664,17 @@
       </g>
     </g>
     <g
-       transform="matrix(0.5,0,0,-0.5,2.440043,561.17104)"
+       transform="matrix(0.578078,0,0,-0.578078,-52.29446,616.35727)"
        id="g3482"
        inkscape:export-filename="garak05.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
-      <g
-         style="fill:#000000"
-         transform="translate(-0.6049786,0)"
-         id="g3484">
-        <path
-           d="M 545.13655,615.17595 C 532.45205,662.51513 584.2676,717.57771 660.79624,738.08349 C 737.32488,758.58928 809.72974,736.81145 822.41423,689.47228 C 835.09872,642.13309 783.28319,587.07052 706.75455,566.56473 C 630.22591,546.05895 557.82104,567.83677 545.13655,615.17595 z M 575.06735,630.90102 C 560.56437,675.20798 597.49497,720.7648 657.50173,732.59035 C 717.50848,744.4159 777.98015,718.05418 792.48313,673.74722 C 806.98611,629.44025 770.05551,583.88343 710.04876,572.05788 C 650.042,560.23233 589.57033,586.59405 575.06735,630.90102 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.96078431;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path3486" />
-      </g>
       <path
-         transform="translate(-0.68153,-79.8957)"
-         sodipodi:nodetypes="ccccccc"
+         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 322.59872,141.49313 C 346.09087,138.92241 363.01877,174.19998 356.09375,181.125 C 350.71651,180.9798 345.19735,181.58614 339.6875,183.0625 C 311.16178,190.70595 293.74053,218.3258 300.8125,244.71875 C 307.88447,271.11172 336.25973,282.05549 365.3125,277.01277 C 442.59836,263.59819 401.89133,110.32927 322.59872,141.49313 z M 334.57776,140.63059 C 379.94877,128.47347 415.13442,252.6464 366.46875,272.46875 C 347.5814,280.16189 327.01024,265.81179 319.30349,242.84586 C 311.59673,219.87996 318.29539,192.99364 338.53125,189.25 C 340.42836,188.89904 342.35556,188.73955 344.28125,188.71875 C 350.53911,188.65116 357.48273,190.30523 363.39786,193.28125 C 384.33445,187.67131 350.59407,136.33904 334.57776,140.63059 z"
+         transform="matrix(2,0,0,-2,-4.880086,1122.3421)"
          id="path3490"
-         d="M 710.96875,816.625 C 732.46823,862.57026 701.56013,891.99837 682.90625,911.34375 C 720.64537,923.26545 804.12648,862.87157 801.85203,801.22372 L 772.41065,814.27525 C 766.99059,855.08519 746.43348,889.55734 699.34105,904.56234 C 763.21315,848.96997 746.64182,816.4092 743.34375,804.53125 L 710.96875,816.625 z"
-         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         sodipodi:nodetypes="ccsssccsssscc" />
     </g>
     <text
        xml:space="preserve"
@@ -725,41 +720,42 @@
          id="tspan3519"
          x="-141.78772"
          y="-37.081787">Garak</tspan></text>
-    <path
-       style="font-size:338.18725586px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
-       d="M 423.97069,292.50614 L 450.01111,282.69871 L 475.37515,186.31534 C 486.87351,177.86067 494.65184,174.47878 503.78288,174.47878 C 511.22299,174.47878 515.61944,177.18429 521.70681,184.96259 L 531.85242,152.8348 C 525.42687,150.80568 522.72137,150.1293 519.3395,150.1293 C 513.25213,150.1293 506.15018,153.17299 497.01914,159.59855 L 477.06609,174.1406 C 477.40428,171.4351 478.08065,169.74416 478.08065,168.7296 C 480.78615,157.56943 481.12434,155.5403 481.12434,153.84936 C 481.12434,151.82024 479.09521,150.1293 476.7279,150.1293 C 472.33147,150.1293 442.57097,164.67137 421.94157,177.18428 L 420.927,186.31534 C 439.1891,176.84611 441.21824,176.16972 445.27649,176.16972 C 449.67292,176.16972 451.70204,178.53704 451.70204,183.27165 C 451.70204,188.00627 448.32017,203.90109 444.26193,218.44313 L 423.97069,292.50614"
-       id="path3532"
-       inkscape:export-filename="garak05.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="font-size:338.18725586px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
-       d="M 615.41407,314.49176 C 619.13413,313.13902 622.51601,311.78627 623.53057,311.44808 C 625.55969,310.77171 628.94157,309.75714 632.66162,308.40439 C 633.67618,308.06621 636.71987,307.05164 640.10174,306.03708 L 653.29105,245.83975 L 661.06935,241.10513 L 680.00784,285.06947 C 694.54988,319.56454 703.34277,333.43026 717.20844,344.25224 C 731.75047,355.41241 752.71812,362.51435 770.64202,362.51435 C 786.19862,362.51435 797.35883,359.13247 807.50443,350.6778 L 800.74069,326.32832 C 789.91871,344.59041 780.11125,351.69236 765.9074,351.69236 C 751.36536,351.69236 736.82329,340.19398 725.32493,319.56457 C 718.56119,306.71347 718.56115,306.71338 680.00784,225.21033 L 702.66638,204.58091 C 715.85567,192.74436 719.91394,190.37704 726.33949,190.37704 C 732.08867,190.37704 736.14693,193.08255 741.55792,200.18447 L 758.80547,174.48224 C 752.37992,169.40944 747.3071,167.7185 739.86698,167.7185 C 731.07412,167.7185 724.98673,170.76219 714.84113,180.23142 C 704.01914,190.37703 703.68094,191.05342 700.29907,194.0971 L 656.67292,232.98864 L 669.52403,181.24599 C 680.34602,136.60531 684.06609,125.78327 689.81527,116.31403 C 695.90263,106.50661 704.69552,101.77198 716.19388,101.77198 C 719.57574,101.77198 721.94306,102.11017 728.03043,103.12473 L 741.55792,83.509868 C 737.16149,82.833494 734.79417,82.495306 731.75049,82.495306 C 719.57576,82.495306 711.45924,85.200812 700.97545,92.979111 C 679.33149,108.19752 664.11303,123.07779 659.7166,132.88521 C 656.33473,140.32532 649.90917,162.64571 645.51274,182.26055 L 615.41407,314.49176"
-       id="text3521"
-       inkscape:export-filename="garak05.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+    <image
+       xlink:href="garak03.jpg"
+       sodipodi:absref="garak03.jpg"
+       width="674"
+       height="344"
+       id="image2497"
+       x="36.96875"
+       y="418.20181" />
     <g
-       id="g3548"
-       transform="matrix(0.5,0,0,-0.5,214.56657,567.20307)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="garak05.png"
+       id="g3297"
+       transform="matrix(0.578078,0,0,-0.578078,161.70554,616.35727)">
+      <path
+         sodipodi:nodetypes="ccsssccsssscc"
+         id="path3299"
+         transform="matrix(2,0,0,-2,-4.880086,1122.3421)"
+         d="M 322.59872,141.49313 C 346.09087,138.92241 363.01877,174.19998 356.09375,181.125 C 350.71651,180.9798 345.19735,181.58614 339.6875,183.0625 C 311.16178,190.70595 293.74053,218.3258 300.8125,244.71875 C 307.88447,271.11172 336.25973,282.05549 365.3125,277.01277 C 442.59836,263.59819 401.89133,110.32927 322.59872,141.49313 z M 334.57776,140.63059 C 379.94877,128.47347 415.13442,252.6464 366.46875,272.46875 C 347.5814,280.16189 327.01024,265.81179 319.30349,242.84586 C 311.59673,219.87996 318.29539,192.99364 338.53125,189.25 C 340.42836,188.89904 342.35556,188.73955 344.28125,188.71875 C 350.53911,188.65116 357.48273,190.30523 363.39786,193.28125 C 384.33445,187.67131 350.59407,136.33904 334.57776,140.63059 z"
+         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 431.98923,282.93589 C 434.86896,286.08054 451.45469,278.40863 453.2717,270.67215 L 453.2717,224.37993 C 463.25138,181.28052 483.80034,156.96783 491.16584,188.77733 C 494.84201,192.7821 505.54568,171.40786 503.74087,167.37765 C 500.26525,152.36744 480.52871,122.97913 453.2717,196.57648 L 453.2717,149.41001 C 451.90282,144.33288 433.97031,143.42972 431.98923,161.38573 L 431.98923,282.93589 z"
+       id="path3301"
+       sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="garak05.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         id="g3550"
-         transform="translate(-0.6049786,0)"
-         style="fill:#000000">
-        <path
-           id="path3552"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.96078431;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="M 545.13655,615.17595 C 532.45205,662.51513 584.2676,717.57771 660.79624,738.08349 C 737.32488,758.58928 809.72974,736.81145 822.41423,689.47228 C 835.09872,642.13309 783.28319,587.07052 706.75455,566.56473 C 630.22591,546.05895 557.82104,567.83677 545.13655,615.17595 z M 575.06735,630.90102 C 560.56437,675.20798 597.49497,720.7648 657.50173,732.59035 C 717.50848,744.4159 777.98015,718.05418 792.48313,673.74722 C 806.98611,629.44025 770.05551,583.88343 710.04876,572.05788 C 650.042,560.23233 589.57033,586.59405 575.06735,630.90102 z" />
-      </g>
-      <path
-         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 710.96875,816.625 C 732.46823,862.57026 701.56013,891.99837 682.90625,911.34375 C 720.64537,923.26545 804.12648,862.87157 801.85203,801.22372 L 772.41065,814.27525 C 766.99059,855.08519 746.43348,889.55734 699.34105,904.56234 C 763.21315,848.96997 746.64182,816.4092 743.34375,804.53125 L 710.96875,816.625 z"
-         id="path3554"
-         sodipodi:nodetypes="ccccccc"
-         transform="translate(-0.68153,-79.8957)" />
-    </g>
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 712.55411,125.77241 C 687.11561,132.58863 640,144.23089 640,165.375 L 640,286.9375 C 642.8797,290.08213 659.46424,282.42398 661.28125,274.6875 L 661.28125,238.6875 C 662.31623,237.65252 665.50402,234.74652 667.80236,232.86951 C 670.03602,241.20566 696.78118,281.81243 701.375,286.40625 C 705.05893,290.09018 728.44362,287.65935 725.84375,283.15625 C 720.94975,278.26225 685.81984,228.37202 683.25,218.78125 L 700.90625,202.75 C 702.97465,200.6816 699.00837,196.00923 695.34375,198.125 L 661.28125,228.375 L 661.28125,180.8125 C 661.28125,138.93813 691.60486,140.22813 709.07123,135.54803 C 714.42321,134.11397 716.25006,124.78208 712.55411,125.77241 z"
+       id="path3303"
+       sodipodi:nodetypes="cccccccccccccss"
+       inkscape:export-filename="garak05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
